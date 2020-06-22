@@ -1,0 +1,2 @@
+#include "abstractclassalogrithm.h"
+
